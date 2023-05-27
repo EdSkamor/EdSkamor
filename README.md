@@ -1,7 +1,7 @@
 [![MasterHead](https://raw.githubusercontent.com/ghosharnab00/ghosharnab00/output/github-contribution-grid-snake.svg)]()
 <h1 align="center">Hi 👋, I'm Edward Saint Skamor</h1>
 <h3 align="center">A passionate Full Stack GameDev from Poland</h3>
-(img align="right" alt="Coding" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/579074999584498478/D03219BC52F15D7F2DB0E855A003B99632F988B8/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false")
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=edskamor" alt="edskamor" /></a> </p>
 
