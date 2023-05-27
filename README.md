@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Full Stack GameDev from Poland</h3>
 
 
-<p align="bottom"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=edskamor" alt="edskamor" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=edskamor" alt="edskamor" /></a> </p>
 
 [![MasterHead](https://www.eyepixx.art/wp-content/uploads/2022/04/eyepixx-gif-15-1.gif)]()
 
