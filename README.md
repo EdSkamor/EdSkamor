@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=edskamor" alt="edskamor" /></a> </p>
 
-[![MasterHead](https://raw.githubusercontent.com/ghosharnab00/ghosharnab00/output/github-contribution-grid-snake.svg)]()
+[![MasterHead](https://www.eyepixx.art/wp-content/uploads/2022/04/eyepixx-gif-15-1.gif)]()
 
 - 🔭 I’m currently working on **My Own Company**
 
