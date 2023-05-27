@@ -5,7 +5,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=edskamor" alt="edskamor" /></a> </p>
 
-[![MasterHead](https://www.eyepixx.art/wp-content/uploads/2022/04/eyepixx-gif-15-1.gif)]()
+[![MasterHead](https://scitechdaily.com/images/Human-Eye-Iris-Focus-Concept.gif)]()
 
 - 🔭 I’m currently working on **My Own Company**
 
